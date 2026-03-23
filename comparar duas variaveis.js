@@ -1,7 +1,7 @@
-let a = 10;
-let b = 20;
+let Roberto = 10;
+let Raimundo = 20;
 
-console.log("a é igual a b?", a == b);
-console.log("a é diferente de b?", a != b);
-console.log("a é maior que b?", a > b);
-console.log("a é menor que b?", a < b);
+console.log("Roberto é igual a Raimundo?", Roberto == Raimundo);
+console.log("Roberto é diferente de Raimundo?", Roberto != Raimundo);
+console.log("Roberto é maior que Raimundo?", Roberto > Raimundo);
+console.log("Roberto é menor que Raimundo?", Roberto < Raimundo);
