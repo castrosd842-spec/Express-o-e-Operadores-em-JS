@@ -1,5 +1,5 @@
 let reais = 100;
-let cotacao = 5.00; // valor do dólar (exemplo)
+let cotacao = 5.23;
 
 let dolares = reais / cotacao;
 
